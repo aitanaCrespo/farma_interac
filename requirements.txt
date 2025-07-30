@@ -1,0 +1,12 @@
+# Librerías principales de tu app
+streamlit>=1.20.0
+gTTS>=2.3.2
+Pillow>=9.0.0
+
+# Autenticación con bcrypt y sus dependencias
+bcrypt>=4.0.1
+cffi>=1.15.1
+
+# Dependencias implícitas que a veces son necesarias en entornos como Streamlit Cloud
+setuptools>=65.0.0
+wheel>=0.38.0
